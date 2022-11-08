@@ -25,4 +25,5 @@ void main() {
   }
 
   print(findOdds([10, 4, 6, 12, 22, 2]));
+  print(findOdds([10, 4, 7, 1, 22, 3]));
 }
